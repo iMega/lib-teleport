@@ -1,5 +1,5 @@
 {
-  "name": "iMega/Teleport",
+  "name": "iMega/lib-teleport",
   "description": "Import your products from your 1C to your eShop.",
   "keywords": ["database"],
   "minimum-stability": "stable",
